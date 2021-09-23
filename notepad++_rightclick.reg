@@ -1,7 +1,0 @@
-Windows Registry Editor Version 5.00
-; Open files
-[HKEY_CLASSES_ROOT\*\shell\Open with NotePad]
-@="Edit with NotePad++"
-"Icon"="C:\\IDE\\npp.7.9.5.portable\\notepad++.exe,0"
-[HKEY_CLASSES_ROOT\*\shell\Open with NotePad\command]
-@="\"C:\\IDE\\npp.7.9.5.portable\\notepad++.exe\" \"%1\""
